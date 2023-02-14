@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Rian e desejo me tornar um Desenvolvedor!
 - 📚 Atualmente estou estudando desenvolvimento Web.
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Analise e Desenvolvimento de Sistemas.
 - 💡 Aprimorando meu conhecimentos para entrar na área de desenvolvimento.
 
 <div align="center">
